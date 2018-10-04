@@ -1,0 +1,18 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "\"WebScraping Tests\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardoalvs0/Web-Scraping.git"
+  },
+  "author": "Ricardo Alves",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
